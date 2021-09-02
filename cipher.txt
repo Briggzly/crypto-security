@@ -1,0 +1,13 @@
+Each letter will be opposite so 
+
+so abcdefghijklmnopqrstuvwxyz will =
+   zyxwvutsrqponmlkjihgfedcba
+
+
+I love cryptography = R olev xibkgltizksb
+
+
+
+
+Part 3
+Yahoo got breached in 2013 where they estimated that 3 billion accounts got hacked while in the transfer deal with Verison. Verison then stated that they were helping yahoo making it more secure for everyone. The hackers accessed information like security questions and answers, passwords.
